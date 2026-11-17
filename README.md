@@ -1,4 +1,4 @@
-# Engineer-Physicist
+# Asteroid-Orbital-Dynamics
 
 # Asteroid Orbital Dynamics & Numerical Validation
 
