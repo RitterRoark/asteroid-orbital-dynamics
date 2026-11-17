@@ -1,5 +1,3 @@
-# Asteroid-Orbital-Dynamics
-
 # Asteroid Orbital Dynamics & Numerical Validation
 
 A 2D orbital mechanics simulation built in Python to model heliocentric asteroid
